@@ -1,0 +1,208 @@
+{
+    "cosmeticProducts": [
+      {
+        "id": "c1234",
+        "name": "Luxury Moisturizing Cream",
+        "price": 49.99,
+        "oldPrice": 59.99,
+        "rate": 4.5,
+        "shortDescription": "Deeply hydrating cream for silky smooth skin.",
+        "longDescription": "Indulge your skin with our luxurious moisturizing cream. Formulated with premium ingredients to provide intense hydration and promote a radiant complexion.",
+        "sku": "LMC-001",
+        "images": [
+          "https://media.allure.com/photos/64ee2e8970fdd7d8de68cf95/16:9/w_3488,h_1962,c_limit/luxury_moisturizers_002.jpg",
+          "https://i.ebayimg.com/images/g/sWcAAOSwjt1iQkBZ/s-l1600.jpg",
+          "https://www.postquam.com/356603-large_default/luxury-gold-day-moisturizing-cream-50ml.jpg"
+        ],
+        "banner": "https://glowing.g5plus.net/elementor/wp-content/uploads/2021/10/bg-slider-01.jpg",
+        "category": "Skincare",
+        "tags": ["moisturizer", "luxury", "hydration"]
+      },
+      {
+        "id": "c5678",
+        "name": "Matte Finish Lipstick",
+        "price": 12.99,
+        "rate": 4.2,
+        "shortDescription": "Bold color with a matte finish for all-day wear.",
+        "longDescription": "Achieve a stunning look with our matte finish lipstick. The highly pigmented formula ensures vibrant color that lasts throughout the day without drying your lips.",
+        "sku": "MFL-002",
+        "images": [
+          "https://scontent.cdninstagram.com/v/t51.29350-15/244135009_148091030872015_5755683038939290656_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=JBSU61CbpUAAX_PqJNc&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfA3tSpYjX5kD0oH4fMNRIkRfSfX1nQVGenVzVnupoy0BA&oe=65D11D3E",
+          "https://scontent.cdninstagram.com/v/t51.29350-15/244352078_268860578480217_8098470444965108750_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=mWBvTo6EPVIAX-QLL7q&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AfBzbeX2o7anRadOlamuEA0tJq6zgQ0UyZS7Fywhhn75nQ&oe=65D10F57",
+          "https://i5.walmartimages.com/asr/a94da276-537d-42d8-9341-aaf17b90c07d.05b67504d92a876de771e97c1c5cf20c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+        ],
+        "banner": "https://img.freepik.com/premium-vector/skincare-spray-bottle-ads_86047-24.jpg?size=626&ext=jpg",
+        "category": "Makeup",
+        "tags": ["lipstick", "matte", "long-lasting"]
+      },
+      {
+        "id": "c9012",
+        "name": "Anti-Aging Serum",
+        "price": 69.99,
+        "rate": 4.8,
+        "discount": 17,
+        "shortDescription": "Revitalize your skin with our powerful anti-aging serum.",
+        "longDescription": "Turn back the clock with our advanced anti-aging serum. Infused with potent ingredients to reduce fine lines and wrinkles, leaving your skin looking youthful and radiant.",
+        "sku": "AAS-003",
+        "images": [
+          "https://images.uzum.uz/cljdk4tennt6m290dn5g/original.jpg",
+          "https://www.thenaturalwash.com/cdn/shop/files/Howtouse_1_53334296-d385-4a28-86b4-e73f70b1f63e.jpg?v=1687949426",
+          "https://chiltanpure.com/cdn/shop/products/anti-aging-serum-hydrate-skin-anti-wrinkle-reduce-fine-lines-fights-signs-of-ageing-464249.jpg?v=1686414315"
+        ],
+        "banner": "https://glowing.g5plus.net/elementor/wp-content/uploads/2021/10/bg-slider-01.jpg",
+        "category": "Skincare",
+        "tags": ["anti-aging", "serum", "skincare"]
+      },
+      {
+        "id": "c3456",
+        "name": "Natural Tinted Moisturizer",
+        "price": 29.99,
+        "rate": 4.0,
+        "shortDescription": "Enhance your natural beauty with our tinted moisturizer.",
+        "longDescription": "Achieve a flawless, natural look with our tinted moisturizer. The lightweight formula provides hydration and a hint of color, giving your skin a radiant and even-toned appearance.",
+        "sku": "NTM-004",
+        "images": [
+          "https://www.lauramercier.ca/cdn/shop/products/LM_SP22_TMLR_CAN_50ml_0N1_PETAL_3680x3680_R72.png?v=1670862093",
+          "https://media.ulta.com/i/ulta/2560042?w=1020&h=1020",
+          "https://www.lauramercier.com/cdn/shop/products/lm-tinted-moisturizer-mini-tinted-moisturizer-25ml-0n1-petal-silo-3k.png?v=1666735585"
+        ],
+        "banner": "https://cdn.shopify.com/s/files/1/0985/3000/files/elf-cosmetics-launch-banner.jpg?v=1683594155",
+        "category": "Makeup",
+        "tags": ["tinted moisturizer", "natural", "makeup"]
+      },
+      {
+        "id": "c7890",
+        "name": "Volume Boosting Mascara",
+        "price": 14.99,
+        "rate": 4.5,
+        "shortDescription": "Achieve bold and voluminous lashes with our mascara.",
+        "longDescription": "Transform your lashes with our volume-boosting mascara. The formula coats each lash, providing intense volume and length for a dramatic and eye-catching look.",
+        "sku": "VBM-005",
+        "images": [
+          "https://bellstore.uz/image/cache/catalog/Products%20photo/Lamel/Lamel%20Professional%20%D0%A2%D1%83%D1%88%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B5%D1%81%D0%BD%D0%B8%D1%86%20Volume%20Booster%20Mascara%20(2)-500x400.jpg",
+          "https://bellstore.uz/image/cache/catalog/Products%20photo/Lamel/Lamel%20Professional%20%D0%A2%D1%83%D1%88%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B5%D1%81%D0%BD%D0%B8%D1%86%20Volume%20Booster%20Mascara%20(1)-500x400.jpg"
+        ],
+        "banner": "https://lashcandycosmetics.com/cdn/shop/files/2024pxx1024pxbanner2.jpg?v=1686118969&width=2048",
+        "category": "Makeup",
+        "tags": ["mascara", "volume", "lashes"]
+      },
+      {
+        "id": "c2345",
+        "name": "Glowing Highlighter Palette",
+        "price": 24.99,
+        "rate": 4.7,
+        "shortDescription": "Illuminate your features with our radiant highlighter palette.",
+        "longDescription": "Enhance your natural glow with our highlighter palette. The blendable shades provide a luminous finish, perfect for accentuating your cheekbones and other key features.",
+        "sku": "GHP-006",
+        "discount": 17,
+
+        "images": [
+          "https://www.acebeaute.com/cdn/shop/products/GlowEssentialsHighlighterPalette-1.png?v=1676476920&width=1080",
+          "https://i5.walmartimages.com/seo/Ace-Beaute-Glow-Essentials-Highlighter-Palette-NEW_1e72b917-139d-41a1-91a5-ca0bf137e6d5.b5c7cec4154720811da7773026bedbcc.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+        ],
+        "banner": "https://glowing.g5plus.net/elementor/wp-content/uploads/2021/10/bg-slider-01.jpg",
+        "category": "Makeup",
+        "tags": ["highlighter", "palette", "glow"]
+      },
+      {
+        "id": "c6789",
+        "name": "Hydrating Lip Balm",
+        "price": 8.99,
+        "rate": 4.3,
+        "shortDescription": "Nourish and hydrate your lips with our lip balm.",
+        "longDescription": "Say goodbye to dry lips with our hydrating lip balm. The moisturizing formula soothes and nourishes, leaving your lips soft and supple.",
+        "sku": "HLB-007",
+        "images": [
+          "https://olcha.uz/image/original/products/2022-12-02/balzam-dlya-gub-peach-plumping-hydrating-lip-balm-3g-173026-0.jpeg",
+          "https://images.uzum.uz/clq5jq9iac3an8rltohg/original.jpg",
+          "https://aspectskincare.com/cdn/shop/products/Aspect-Hydrating-Lip-Balm-5g-2000x2000_3034ca67-a27d-4265-9a12-df9059737af1_800x.jpg?v=1605061966"
+        ],
+        "banner": "https://www.imagebeauty.com/cdn/shop/files/la_girl_banner_png.webp?v=1704804533&width=3840",
+        "category": "Skincare",
+        "tags": ["lip balm", "hydration", "nourishing"]
+      },
+      {
+        "id": "c0123",
+        "name": "Vibrant Nail Polish Set",
+        "price": 19.99,
+        "rate": 4.6,
+        "shortDescription": "Add a pop of color to your nails with our vibrant polish set.",
+        "longDescription": "Express your style with our vibrant nail polish set. The high-quality formula provides long-lasting color and shine, allowing you to create stunning nail looks.",
+        "sku": "VNP-008",
+        "images": [
+          "https://images.meesho.com/images/products/131213950/xvoe9_512.webp",
+          "https://img.ltwebstatic.com/images3_spmp/2024/01/24/b1/1706066893ac6799e3bfe2a3900688bda511723df6_thumbnail_405x552.jpg",
+          "https://i5.walmartimages.com/asr/69f5d50f-d2bd-4279-b58b-726bcab1fe6e.e75e8332d6d54342091f351576f95ca2.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+        ],
+        "banner": "https://dazller.co.in/cdn/shop/files/50_Product_Promotion_website_1.png?v=1702473215&width=2400",
+        "category": "Nails",
+        "tags": ["nail polish", "colorful", "nail care"]
+      },
+      {
+        "id": "c4567",
+        "name": "Refreshing Cucumber Face Mask",
+        "price": 15.99,
+        "rate": 4.4,
+        "shortDescription": "Revitalize your skin with our refreshing cucumber face mask.",
+        "longDescription": "Treat your skin to a spa-like experience with our cucumber face mask. The cooling and revitalizing formula leaves your skin feeling refreshed and rejuvenated.",
+        "sku": "RCM-009",
+        "images": [
+          "https://api.watsons.com.hk/medias/cat-front-809352.jpg?context=bWFzdGVyfHd0Y2hrL2ltYWdlc3wxNTc5NzJ8aW1hZ2UvanBlZ3xhR0ptTDJnNE5DOHhNems1TWpVME5EazJNRFUwTWk5WFZFTklTeTA0TURrek5USXRabkp2Ym5RdWFuQm58YjUyZDJlNjRkNmVjMTIwMjIzNjQ0ODEzYjg1NDQxMzRjZjgzZGJiM2VlYjE0YTJhMTZlNWY0YTgwNzA1NGRkNg",
+          "https://api.watsons.com.my/medias/cat-front-80420.jpg?context=bWFzdGVyfHd0Y215L2ltYWdlc3wzOTU1OTF8aW1hZ2UvanBlZ3xhRFkyTDJoak1TOHhNRGsxT0RZek1qa3hNRGczT0M5WFZFTk5XUzA0TURReU1DMW1jbTl1ZEM1cWNHY3xhNTE4NzdlNzBlYjNiNGQxYzUzNDY2NzM4Y2ZhMjdhNjRhYTRlYWY5ZjUwOTRmNWRiYTFkOWE4MDM0YjkwY2Qy",
+          "https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/12/2022/03/prd-front-50010145.jpg"
+        ],
+        "banner": "https://www.snipp.com/hs-fs/hubfs/cosmetics_banner5.png?width=2050&height=738&name=cosmetics_banner5.png",
+        "category": "Skincare",
+        "tags": ["face mask", "cucumber", "refreshing"]
+      },
+      {
+        "id": "c7891",
+        "name": "Sculpting Contour Kit",
+        "price": 29.99,
+        "rate": 4.7,
+        "shortDescription": "Define and accentuate your features with our contour kit.",
+        "longDescription": "Achieve a sculpted look with our contour kit. The blendable shades allow you to define and accentuate your facial features for a polished and contoured appearance.",
+        "sku": "SCK-010",
+        "images": [
+          "https://media.superdrug.com//medias/sys_master/prd-images/ha2/h41/10667682005022/prd-ls2-523101_600x600/prd-ls2-523101-600x600.jpg",
+          "https://reallyree.com/wp-content/uploads/2015/09/collection-contour-kit-review-swatches-1024x683.jpg",
+          "https://www.sophielaura.co.uk/wp-content/uploads/2015/09/collection-contour-kit-1.jpg"
+        ],
+        "banner": "https://www.paccosmetics.com/wp-content/uploads/2024/01/HD-Liquid-Foundation-M-Banner.jpg",
+        "category": "Makeup",
+        "tags": ["contour kit", "sculpting", "makeup"]
+      },
+      {
+        "id": "c2346",
+        "name": "Gentle Foaming Cleanser",
+        "price": 17.99,
+        "rate": 4.5,
+        "shortDescription": "Cleanse your skin gently with our foaming cleanser.",
+        "longDescription": "Say goodbye to impurities with our gentle foaming cleanser. The lightweight formula effectively removes makeup and impurities, leaving your skin feeling clean and refreshed.",
+        "sku": "GFC-011",
+        "images": [
+          "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cet/cet88917/y/14.jpg",
+          "https://theskincarelibrary.com/cdn/shop/products/CetaphilGentleFoamingCleanser.jpg?v=1642090220",
+          "https://static.thcdn.com/productimg/960/960/13105754-3854983544694736.jpg"
+        ],
+        "banner": "https://glowing.g5plus.net/elementor/wp-content/uploads/2021/10/bg-slider-01.jpg",
+        "category": "Skincare",
+        "tags": ["cleanser", "foaming", "skincare"]
+      }
+    ],
+    "categories":[
+      {
+        "id": "1",
+        "name": "Skincare"
+      },
+      {
+        "id": "2",
+        "name": "Makeup"
+      },
+      {
+        "id": "3",
+        "name": "Nails"
+      }
+    ]
+  }
+  
